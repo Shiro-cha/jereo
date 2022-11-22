@@ -1,0 +1,15 @@
+{
+  "name": "jereo",
+  "version": "1.0.0",
+  "description": "CLI to git file automaticaly after saving with the adequte message",
+  "main": "index.js",
+  "bin":{
+    "jereo":"node index.js"
+  },
+  "keywords": ["file","git"],
+  "author": "Shiro Yuka",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.4.1"
+  }
+}
